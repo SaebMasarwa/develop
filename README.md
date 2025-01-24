@@ -9,3 +9,9 @@ clean prebuild
 ```
 npx expo prebuild --clear
 ```
+
+start expo with clean cache
+
+```
+npx expo start --clear
+```
