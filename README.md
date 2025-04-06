@@ -7,7 +7,7 @@ Wait for it soon enough, thank you.
 clean prebuild
 
 ```
-npx expo prebuild --clear
+npx expo prebuild --clean
 ```
 
 start expo with clean cache
